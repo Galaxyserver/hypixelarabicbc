@@ -18,7 +18,7 @@ client.on("message", message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : darkxx`);
+      console.log(`Desert Bot- Script By : ShaherAhly2005`);
         console.log(`----------------`);
       console.log(`ON ${client.guilds.size} Servers '     Script By : black ' `);
     console.log(`----------------`);
